@@ -17,7 +17,7 @@ This project aims to detect student concentration levels using computer vision t
 The dataset consists of images of students in various states of concentration. The images are labeled to indicate whether the student is focused or distracted.
 ![image](https://github.com/user-attachments/assets/c296437e-9536-4497-9984-fd8024127fbc)
 ![image](https://github.com/user-attachments/assets/5853d072-38d7-4aea-80d8-4229823b3336)
-
+Link to dataset: https://www.kaggle.com/datasets/joyee19/studentengagement
 ## Model
 The model uses a convolutional neural network (CNN) architecture to classify the images. It is trained from scratch using the PyTorch Library. 
 
